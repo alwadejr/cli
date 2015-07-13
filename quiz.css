@@ -1,0 +1,17 @@
+html {
+	font-family: Arial;
+}
+
+section {
+	font-family: Tahoma;
+}
+
+body {
+	width: 65%;
+
+}
+
+.highlight {
+	background-color: red;
+}
+
